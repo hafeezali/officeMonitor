@@ -35,3 +35,4 @@ detailed README shall be written when the repo is made public.
 - the reviews and the suggestions happen in hte comment section of the PRs, when a reviewer suggests edits its expected of
   them to suggest linewise and point specifically to the code blocks and are expexted to comment on the same
 - PR shall not be left unattended for more than 48hrs, on this case it's the contibuters responsibility to call for review.
+- Its is advised for the Contributors to fetch and update their master branches daily, this is vital in avoiding merge    conflicts.
