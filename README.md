@@ -34,4 +34,4 @@ detailed README shall be written when the repo is made public.
 - And the along with @rahul-kumi review one other collaborator's review is needed for the PRs to be merged.
 - the reviews and the suggestions happen in hte comment section of the PRs, when a reviewer suggests edits its expected of
   them to suggest linewise and point specifically to the code blocks and are expexted to comment on the same
-- PR shall not be unattended for more than 48hrs, on this case it's the contibuters responsibility to call for review.
+- PR shall not be left unattended for more than 48hrs, on this case it's the contibuters responsibility to call for review.
