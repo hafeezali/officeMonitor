@@ -1,5 +1,5 @@
 # officeMonitor
-##OOAD porject
+##OOAD project
 detailed README shall be written when the repo is made public.
 
 ##TODO
