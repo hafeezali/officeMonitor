@@ -1,8 +1,8 @@
 # officeMonitor
-##OOAD project
+## OOAD project
 detailed README shall be written when the repo is made public.
 
-##TODO
+## TODO
 - [X] Basic Idea approval and validation.
 - [X] First hand work: Diagram designs,
       Abstract submissions.
@@ -26,7 +26,7 @@ detailed README shall be written when the repo is made public.
 - [ ] Prepare and Nail the Presentation.
 - [ ] Chill madi!!!
 
-##Contribution standards:
+## Contribution standards:
 - the collaborators are each expected to branch their work.
 - code shall be adequetly commented, and the namespaces shall be self illustratively.
 - And individually commit thier aggregate work on a file,like `README.md : blah blah blah`
