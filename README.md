@@ -6,25 +6,25 @@ detailed README shall be written when the repo is made public.
 - [X] Basic Idea approval and validation.
 - [X] First hand work: Diagram designs,
       Abstract submissions.
-- [ ] Do further research.
-- [ ] Refine and Finalise the classes and diagrams.
-- [ ] Compose and implement the basic layout i,e. the initial commit.
-- [ ] Prepare on the working of the Robot class: to implement the mouse and keyboard interactions.
-- [ ] Prepare and sit on the UI and prototype it.
-- [ ] Prepare and sit on the event handling and GUI component bindings.
-- [ ] Refine and Implement the GUI prototype and build the sketal frame for the events.
-- [ ] Start and finalise(if you have started coding during preparation) the implementation of Business Logic, design them as separate components.
-- [ ] Refine the model.
-- [ ] Research and implement the compression of the frame to improve QoS.
-- [ ] Build the File explorer functionality (including GUI), either from scratch or otherwise.
-- [ ] Prepare and implement Socket programming for the funtionalities that it: message passing, video chat
-- [ ] Implement the Chat funtioanlity(just between individual users initially),test the working and mend the corner cases.
-- [ ] Improvise the UI, to enhace UX.
-- [ ] Intense testing.
-- [ ] Solid Documentation.
-- [ ] Integrate the changes incurred in the flowchain into the diagrams.
-- [ ] Prepare and Nail the Presentation.
-- [ ] Chill madi!!!
+- [x] Do further research.
+- [x] Refine and Finalise the classes and diagrams.
+- [x] Compose and implement the basic layout i,e. the initial commit.
+- [x] Prepare on the working of the Robot class: to implement the mouse and keyboard interactions.
+- [x] Prepare and sit on the UI and prototype it.
+- [x] Prepare and sit on the event handling and GUI component bindings.
+- [x] Refine and Implement the GUI prototype and build the sketal frame for the events.
+- [x] Start and finalise(if you have started coding during preparation) the implementation of Business Logic, design them as separate components.
+- [x] Refine the model.
+- [x] Research and implement the compression of the frame to improve QoS.
+- [x] Build the File explorer functionality (including GUI), either from scratch or otherwise.
+- [x] Prepare and implement Socket programming for the funtionalities that it: message passing, video chat
+- [x] Implement the Chat funtioanlity(just between individual users initially),test the working and mend the corner cases.
+- [x] Improvise the UI, to enhace UX.
+- [x] Intense testing.
+- [x] Solid Documentation.
+- [x] Integrate the changes incurred in the flowchain into the diagrams.
+- [x] Prepare and Nail the Presentation.
+- [x] Chill madi!!!
 
 ## Contribution standards:
 - the collaborators are each expected to branch their work.
