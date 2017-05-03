@@ -1,4 +1,4 @@
-#officeMonitor
+# officeMonitor
 
 In this project we have built a remote desktop application along with a file transfer mechanism and a simple two person chat system which can be used for desktop sharing, remote control, work collaboration and also as a helpdesk. In order to build a successful software, we followed object oriented design principles. This includes following a use-case driven approach for identifying classes and methods by constructing sequence diagrams, activity diagrams and finally the class diagrams.
 
