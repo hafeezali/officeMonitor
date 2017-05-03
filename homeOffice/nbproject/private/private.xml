@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/RemoteSlaveInitiator.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/FileServer.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/ScreenSender.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/RemoteMasterInitiator.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/ChatForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/RemoteSlaveForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/Chat.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/Home.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/ChatClientForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/ImageComparison.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/FileChooser.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/EnumCommands.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/ChatServerForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/FileRecieverForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/SlaveHandler.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/SlaveScreenForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/FileSenderForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOfficeGUI/RemoteMasterForm.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/CommandExecutor.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/ScreenReceiver.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/FileClient.java</file>
+            <file>file:/home/hafeez/Desktop/homeOffice/src/homeOffice/CommandSender.java</file>
+        </group>
+    </open-files>
+</project-private>
